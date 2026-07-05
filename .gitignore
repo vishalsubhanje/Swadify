@@ -1,0 +1,23 @@
+# Eclipse
+.classpath
+.project
+.settings/
+
+# Java
+*.class
+
+# Build folders
+build/
+target/
+bin/
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.idea/
+.vscode/
